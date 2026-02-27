@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חברת תיירות בישראל המתמחה בטיולים מותאמים אישית לקבוצות ויחידים. תכנון מסלולי טיול ייחודיים שמותאמים בדיוק לצרכים שלכם. בואו לחוות תיירות אחרת!
+
+### טיולים מותאמים אישית
+https://example.com/tailor-made
+טיול פרטי מותאם אישית שנבנה במיוחד עבורכם. מסלולי taylor made ייחודיים המשלבים את העניינים והתחומים האהובים עליכם. קבלו הצעה מותאמת היום!
+
+### אזורים
+https://example.com/regions
+מגוון אזורי טיול בישראל מחכים לכם: צפון, דרום, מרכז וירושלים. חברת תיירות המציעה חבילות טיול מגוונות לכל אזור. בחרו את היעד האידיאלי שלכם!
+
+### צור קשר
+https://example.com/contact
+מעוניינים בטיול מותאם אישית? צרו איתנו קשר עוד היום לקבלת ייעוץ מקצועי והצעת מחיר. הצוות שלנו ישמח לעצב עבורכם את חוויית הטיול האידיאלית!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
